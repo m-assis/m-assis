@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://images.unsplash.com/photo-1542831371-29b0f74f94dd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Engenharia de Software" width="100%">
+<img src="https://images.unsplash.com/photo-1550063873-ab7929904ce7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Engenharia de Software" width="100%">
 </div>
+<br>
 
 <h1 align="center">O maior e mais completo ecossistema de educação em tecnologia do Brasil</h1>
 
@@ -12,7 +13,7 @@
 
 ---
 
-### Eu sou o Mike Assis, Desenvolvedor Front-End, Estudante de Engenharia de Software na FIAP! 
+### Eu sou o Mike Assis, Desenvolvedor Front-End, Estudante de Engenharia de Software e Estudante na FIAP! 
 <img src="https://media.giphy.com/media/hvRJCLFzjrwpW/giphy.gif" width="30px">
 <br>
 
@@ -25,14 +26,16 @@
 </p>
 
 <p>
-<img src="https://cdn-icons-png.flacon.com/512/2965/2965314.png" width="20px"> Aberto a novas oportunidades, colaborações e desafios que me permitam evoluir ainda mais no ecossistema HTML, CSS, JAVASCRIPT.
+<img src="https://cdn-icons-png.flaticon.com/512/2965/2965314.png" width="20px"> Aberto a novas oportunidades, colaborações e desafios que me permitam evoluir ainda mais no ecossistema HTML, CSS, JAVASCRIPT.
 </p>
 
 ---
 
-### Back-End (Python):
+### Back-End:
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+
+---
 
 ### Front-End:
 <br>
