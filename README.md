@@ -1,13 +1,11 @@
-# m-assis / README.md
+# Mike Assis
 
 <div align="center">
-<img src="https://hermes.digital/blog/wp-content/uploads/2021/08/Alun_Alura_logo-1024x536.png" width="auto">
+<img src="https://images.unsplash.com/photo-1550063873-ab7929904ce7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Engenharia de Software" width="100%">
 </div>
 <br>
 
-<div align="center">
-O maior e mais completo ecossistema de educação em tecnologia do Brasil
-</div>
+<h1 align="center">O maior e mais completo ecossistema de educação em tecnologia do Brasil</h1>
 
 <div align="center">
 <a href="https://www.alura.com.br/"><img src="https://img.shields.io/badge/Alura-000?style=for-the-badge&logo=alura"></a>
@@ -17,7 +15,7 @@ O maior e mais completo ecossistema de educação em tecnologia do Brasil
 
 ---
 
-### Eu sou o Mike Assis, Desenvolvedor Front-End, Estudante de Engenharia de Software e Estudante na FIAP! 
+### Eu sou o Mike Assis, Desenvolvedor Front-End, Estudante de Engenharia de Software na FIAP! 
 <img src="https://media.giphy.com/media/hvRJCLFzjrwpW/giphy.gif" width="30px">
 <br>
 
@@ -30,10 +28,14 @@ O maior e mais completo ecossistema de educação em tecnologia do Brasil
 </p>
 
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/2965/2965314.png" width="20px"> Aberto a novas oportunidades, colaborações e desafios que me permitam evoluir ainda mais no ecossistema HTML, CSS, JAVASCRIPT.
+<img src="https://cdn-icons-png.flacon.com/512/2965/2965314.png" width="20px"> Aberto a novas oportunidades, colaborações e desafios que me permitam evoluir ainda mais no ecossistema HTML, CSS, JAVASCRIPT.
 </p>
 
 ---
+
+### Back-End (Python):
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 
 ### Front-End:
 <br>
