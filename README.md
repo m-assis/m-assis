@@ -1,23 +1,4 @@
-# m-assis / README.md
-
-<div align="center">
-<img src="https://images.unsplash.com/photo-1550063873-ab7929904ce7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Engenharia de Software" width="100%">
-</div>
-<br>
-
-<h1 align="center">O maior e mais completo ecossistema de educação em tecnologia do Brasil</h1>
-
-<div align="center">
-<a href="https://www.alura.com.br/"><img src="https://img.shields.io/badge/Alura-000?style=for-the-badge&logo=alura"></a>
-<a href="https://www.fiap.com.br/"><img src="https://img.shields.io/badge/FIAP-000?style=for-the-badge&logo=fiap"></a>
-<a href="https://pm3.com.br/"><img src="https://img.shields.io/badge/PM3-000?style=for-the-badge&logo=pm3"></a>
-</div>
-
----
-
-### Eu sou o Mike Assis, Desenvolvedor Front-End, Estudante de Engenharia de Software e Estudante na FIAP! 
-<img src="https://media.giphy.com/media/hvRJCLFzjrwpW/giphy.gif" width="30px">
-<br>
+### Eu sou o Mike Assis, Desenvolvedor Front-End, Estudante de Engenharia de Software na FIAP! 
 
 <p>
 <img src="https://cdn-icons-png.flaticon.com/512/3670/3670154.png" width="20px"> Sou apaixonado por desenvolver soluções, criando sistemas integrados, dashboards, aplicativos para diversas aplicações.
