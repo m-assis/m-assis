@@ -1,9 +1,6 @@
-# Mike Assis
-
 <div align="center">
-<img src="https://images.unsplash.com/photo-1550063873-ab7929904ce7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Engenharia de Software" width="100%">
+<img src="https://images.unsplash.com/photo-1542831371-29b0f74f94dd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Engenharia de Software" width="100%">
 </div>
-<br>
 
 <h1 align="center">O maior e mais completo ecossistema de educação em tecnologia do Brasil</h1>
 
