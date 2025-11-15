@@ -5,7 +5,7 @@
 </p>
 
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="20px"> Estou sempre aprimorando minhas habilidades em Spring Boot, APIs REST, React, buscando escrever código limpo e performático.
+<img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="20px"> Estou sempre aprimorando minhas habilidades em Bootstrap, APIs REST, React, buscando escrever código limpo e performático.
 </p>
 
 <p>
