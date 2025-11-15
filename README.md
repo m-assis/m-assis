@@ -9,7 +9,7 @@
 </p>
 
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/2965/2965314.png" width="20px"> Aberto a novas oportunidades, colaborações e desafios que me permitam evoluir ainda mais no ecossistema HTML, CSS, JAVASCRIPT.
+<img src="https://cdn-icons-png.flaticon.com/512/2965/2965314.png" width="20px"> Aberto a novas oportunidades, colaborações e desafios que me permitam evoluir ainda mais no ecossistema HTML, CSS, JAVASCRIPT, BOOTSTRAP.
 </p>
 
 ---
@@ -26,4 +26,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap">
 </span>
