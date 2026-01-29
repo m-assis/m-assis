@@ -1,30 +1,50 @@
-### Eu sou o Mike Assis, Desenvolvedor Front-End, Estudante de Engenharia de Software na FIAP! 
+# Olá, eu sou o Mike Assis! 👋
 
-<p>
-<img src="https://cdn-icons-png.flaticon.com/512/3670/3670154.png" width="20px"> Sou apaixonado por desenvolver soluções, criando sistemas integrados, dashboards, aplicativos para diversas aplicações.
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
 
-<p>
-<img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="20px"> Estou sempre aprimorando minhas habilidades em Bootstrap, APIs REST, React, buscando escrever código limpo e performático.
-</p>
+<br />
 
-<p>
-<img src="https://cdn-icons-png.flaticon.com/512/2965/2965314.png" width="20px"> Aberto a novas oportunidades, colaborações e desafios que me permitam evoluir ainda mais no ecossistema HTML, CSS, JAVASCRIPT, BOOTSTRAP.
-</p>
+### 🚀 Sobre mim
+
+Atualmente graduando em **Engenharia de Software**, estou focado em construir uma base sólida em desenvolvimento de software e gestão de projetos tecnológicos. Dedico meus estudos diários ao domínio da lógica de programação e à linguagem **Python**, desenvolvendo projetos práticos para consolidar meus conhecimentos teóricos.
+
+Além da dedicação técnica, trago comigo uma sólida experiência em atendimento ao cliente e visão estratégica, competências que me permitem focar em resultados e entender as reais necessidades do usuário final.
+
+Acredito que uma fundação técnica bem estruturada é o diferencial para entregar soluções de alta qualidade. Por isso, busco minha primeira oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde possa contribuir com meus conhecimentos e evoluir junto a uma equipe de tecnologia.
 
 ---
 
-### Back-End:
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+### 🛠️ Tecnologias & Ferramentas
+*(Baseadas no meu aprendizado na FIAP e projetos pessoais)*
+
+- **Linguagens:** Python (Foco principal)
+- **Frameworks:** Django, FastAPI
+- **Banco de Dados:** PostgreSQL
+- **DevOps:** Docker, AWS, GitHub Actions
+- **Testes:** Pytest
 
 ---
 
-### Front-End:
-<br>
-<span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap">
-</span>
+### 📫 Vamos nos conectar?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mike-assis-271107261/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  <a href="mailto:mikheas.assis@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
