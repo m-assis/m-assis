@@ -1,34 +1,34 @@
 # Olá, eu sou o Mike Assis! 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
 <br />
 
-### 🚀 Sobre mim
+### 🚀 Desenvolvedor Full-Stack Java & React
 
-Atualmente graduando em **Engenharia de Software**, estou focado em construir uma base sólida em desenvolvimento de software e gestão de projetos tecnológicos. Dedico meus estudos diários ao domínio da lógica de programação e à linguagem **Python**, desenvolvendo projetos práticos para consolidar meus conhecimentos teóricos.
+Atualmente graduando em **Engenharia de Software**, estou em transição para o ecossistema Java, focando na construção de aplicações robustas e escaláveis. Unindo o poder do **Spring Boot** no back-end com a agilidade do **React** no front-end, busco criar soluções completas e eficientes.
 
-Além da dedicação técnica, trago comigo uma sólida experiência em atendimento ao cliente e visão estratégica, competências que me permitem focar em resultados e entender as reais necessidades do usuário final.
+Minha trajetória acadêmica e prática é pautada na entrega de código limpo e foco na experiência do usuário. Com background em atendimento e visão estratégica, entendo que tecnologia é um meio para resolver problemas reais de negócio.
 
-Acredito que uma fundação técnica bem estruturada é o diferencial para entregar soluções de alta qualidade. Por isso, busco minha primeira oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde possa contribuir com meus conhecimentos e evoluir junto a uma equipe de tecnologia.
+Estou em busca da minha primeira oportunidade como **Desenvolvedor Júnior ou Estagiário**, pronto para aplicar meus conhecimentos em projetos desafiadores e evoluir em equipe.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-*(Baseadas no meu aprendizado na FIAP e projetos pessoais)*
+*(Foco atual em Java e Ecossistema Web)*
 
-- **Linguagens:** Python (Foco principal)
-- **Frameworks:** Django, FastAPI
-- **Banco de Dados:** PostgreSQL
-- **DevOps:** Docker, AWS, GitHub Actions
-- **Testes:** Pytest
+- **Back-end:** Java (JDK 17+), Spring Boot, Spring Security, JPA/Hibernate.
+- **Front-end:** React.js, TypeScript, Styled Components, Tailwind CSS.
+- **Banco de Dados:** PostgreSQL, MySQL.
+- **DevOps & Ferramentas:** Docker, AWS, Git/GitHub, Maven.
+- **Arquitetura:** REST APIs, Microservices (em estudo).
 
 ---
 
@@ -45,6 +45,4 @@ Acredito que uma fundação técnica bem estruturada é o diferencial para entre
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</div>
+
